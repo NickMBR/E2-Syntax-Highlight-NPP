@@ -1,5 +1,5 @@
 # Description
-This is a Expression2 syntax highlighter for [Notepad++](https://notepad-plus-plus.org/) it uses the same colours as the in-game text editor and its best fitted on a dark theme, here's a preview:<br />
+This is a Expression2 syntax highlighter for [Notepad++](https://notepad-plus-plus.org/) it uses the same colours as the in-game text editor and its best fitted on a dark theme, here's a preview:<br /><br />
 ![Notepad++](http://i.imgur.com/AH2MuCz.png)
 
 ## Usage
