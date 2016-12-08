@@ -1,0 +1,17 @@
+-- Color Reference for the userDefineLang.xml
+-- from https://github.com/wiremod/wire/blob/master/lua/wire/client/text_editor/wire_expression2_editor.lua
+
+["directive"] = Color(240, 240, 160), -- yellow
+["number"] = Color(240, 160, 160), -- light red
+["function"] = Color(160, 160, 240), -- blue
+["notfound"] = Color(240, 96, 96), -- dark red
+["variable"] = Color(160, 240, 160), -- light green
+["string"] = Color(128, 128, 128), -- grey
+["keyword"] = Color(160, 240, 240), -- turquoise
+["operator"] = Color(224, 224, 224), -- white
+["comment"] = Color(128, 128, 128), -- grey
+["ppcommand"] = Color(240, 96, 240), -- purple
+["typename"] = Color(240, 160, 96), -- orange
+["constant"] = Color(240, 160, 240), -- pink
+["userfunction"] = Color(102, 122, 102), -- dark grayish-green
+["dblclickhighlight"] = Color(0, 100, 0) -- dark green
