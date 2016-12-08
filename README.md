@@ -2,26 +2,30 @@
 This is a Expression2 syntax highlighter for [Notepad++](https://notepad-plus-plus.org/) it uses the same colours as the in-game text editor and its best fitted on a dark theme, here's a preview:<br />
 ![Notepad++](http://i.imgur.com/AH2MuCz.png)
 
-# Usage
+## Usage
 Download the .zip and extract the Notepad++ folder into your "..\AppData\Roaming\" or clone this repository.
 
-# Themes
+## Themes
 This highlighter was made with dark themes in mind, here's some NPP themes that looks cool with it:
 
-Black board<br />
-Deep Black<br />
-Mono Industrial<br />
-Monokai<br />
-Obsidian<br />
-Zenburn<br />
-and others!
+- Black board
+- Deep Black
+- Mono Industrial
+- Monokai
+- Obsidian
+- Zenburn
+- and others!
 
 Don't forget to turn "Global Blackground Colour" on!
 
-# Contribute
+## Contribute
 Core extensions functions for Expression2 are highlighted as well, clone this repository and add your custom functions to the "functions.txt" file and send a pull request!
 
-# Known Issues
+## Extensions Included
+- [SpriteCore](http://steamcommunity.com/sharedfiles/filedetails/?id=811333794) by NickMBR
+- [DamageCore](http://steamcommunity.com/sharedfiles/filedetails/?id=217370580) by Sir Papate
+
+## Known Issues
 - "#[ ]#" multiline comments don't work.
 - "@name" directive doesn't highlight the whole line string.
 
