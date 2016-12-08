@@ -21,6 +21,10 @@ Don't forget to turn "Global Blackground Colour" on!
 # Contribute
 Core extensions functions for Expression2 are highlighted as well, clone this repository and add your custom functions to the "functions.txt" file and send a pull request!
 
+# Known Issues
+- "#[ ]#" multiline comments don't work.
+- "@name" directive doesn't highlight the whole line string.
+
 # License
 
 MIT License
